@@ -1,6 +1,14 @@
-### Hi there 👋
+### Привет! 👋 
+Меня зовут Александр,
+в прошлом инженер и управленец, переродился как дата-аналитик😊
+Обучался в Яндекс-Практикуме.
 
-### :hammer_and_wrench: Languages and Tools :
+### Hi there! 👋 
+I'm Alexander,
+previously an Engineer & Manager, now transformed to Data Analyst😊
+Received training at Yandex Practicum.
+
+### :hammer_and_wrench: Языки и инструменты \ Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/127001/sql-file-format.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;  
@@ -15,5 +23,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
   <img src="https://www.svgrepo.com/show/354237/pycharm.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;   
 </div>
-
-
