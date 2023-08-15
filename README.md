@@ -17,12 +17,14 @@ I enjoy organizing information, creating tables and graphs, and diving into the 
 
 I would be happy to find a remote work in an exciting data analytics project.
 
+<a href="https://www.example.com"><img src="https://www.example.com/image.jpg" alt="Кликабельная картинка"></a>
+
 ### :hammer_and_wrench: Языки и инструменты \ Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <a href="https://www.tableau.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/127001/sql-file-format.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; 
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" title="tableau" alt="tableau" width="40" height="40"/>&nbsp; 
+  <a href="https://www.tableau.com"><img src="https://www.svgrepo.com/show/354427/tableau.svg" title="tableau" alt="tableau" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
