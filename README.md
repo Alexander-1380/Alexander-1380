@@ -1,12 +1,21 @@
 ### Привет! 👋 
-Меня зовут Александр,
-в прошлом инженер и управленец, переродился как дата-аналитик😊
-Обучался в Яндекс-Практикуме.
+Меня зовут Александр.
+Инженер и управленец до 2022. В 2020 начал увлекаться IT, прошел первый курс по Python. 
+В 2022 переродился как **Дата-аналитик**. Обучался в Яндекс-Практикуме. 
+
+Люблю структурировать информацию, делать таблицы и графики, докапываться до сути процессов. Стараюсь постоянно обучаться новому и развиваться. Могу переводить с аналитического на человеческий и обратно. Быстро нахожу общий язык с людьми.
+
+Буду рад найти удаленную работу в интересном проекте в сфере дата-аналитики. 
 
 ### Hi there! 👋 
 I'm Alexander,
-previously an Engineer & Manager, now transformed to Data Analyst😊
+Previously an Engineer & Manager. Started getting interested in IT in 2020 and completed my first Python course. 
+Transformed into a **Data Analyst** in 2022😊
 Received training at Yandex Practicum.
+
+I enjoy organizing information, creating tables and graphs, and diving into the essence of processes. I strive to constantly learn and develop. I can translate from analytical to human language and vice versa. I quickly establish rapport with people.
+
+I would be happy to find a remote work in an exciting data analytics project.
 
 ### :hammer_and_wrench: Языки и инструменты \ Languages and Tools :
 <div>
