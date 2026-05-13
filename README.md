@@ -30,5 +30,6 @@ I would be happy to find a remote work in an exciting data analytics project.
   <a href="https://jupyter.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <a href="https://www.anaconda.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
   <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; 
-  <a href="https://www.jetbrains.com/pycharm"><img src="https://www.svgrepo.com/show/354237/pycharm.svg" title="pycharm" alt="GitHub" width="40" height="40"/>&nbsp;   
+  <a href="https://www.jetbrains.com/pycharm"><img src="https://www.svgrepo.com/show/354237/pycharm.svg" title="pycharm" alt="GitHub" width="40" height="40"/>&nbsp;
+  <a href="https://cdn.jsdelivr.net"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" title="airflow" alt="apache" width="40" height="40"/>&nbsp;
 </div>
